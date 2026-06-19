@@ -251,7 +251,7 @@ This lexical analyzer represents the **first phase**:
 ```
 Source Code
     ↓
-[LEXICAL ANALYSIS] ← YOU ARE HERE
+[LEXICAL ANALYSIS] ← I AM HERE
     ↓
 Token Stream
     ↓
