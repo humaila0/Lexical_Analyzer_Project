@@ -72,8 +72,8 @@ lexical_analyzer_pro/
 │   ├── sample2.c              # Invalid character + malformed number
 │   ├── sample3.c              # Complex, realistic example (struct, loops)
 │   └── sample4.c              # Stress test: 5 error types in one file
-├── README.md                  # This file
-├── requirements.txt           # Dependencies
+├── README.md                 
+├── requirements.txt           
 └── .gitignore
 ```
 
