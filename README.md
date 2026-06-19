@@ -6,13 +6,13 @@ This is a **lexical analyzer** (lexer/scanner) that demonstrates the first phase
 
 ## Features
 
-- ✅ **Tokenization** - Converts source code into tokens
-- ✅ **Symbol Table** - Tracks all identifiers found
-- ✅ **Error Detection** - Identifies lexical errors with line/column info
-- ✅ **GUI Interface** - User-friendly Streamlit application
-- ✅ **File Upload** - Supports uploading `.c` files
-- ✅ **Statistics** - Shows token breakdown and analysis
-- ✅ **Download Results** - Export tokens and symbol table as CSV
+- **Tokenization** - Converts source code into tokens
+- **Symbol Table** - Tracks all identifiers found
+- **Error Detection** - Identifies lexical errors with line/column info
+- **GUI Interface** - User-friendly Streamlit application
+- **File Upload** - Supports uploading `.c` files
+- **Statistics** - Shows token breakdown and analysis
+- **Download Results** - Export tokens and symbol table as CSV
 
 ## Quick Start
 
@@ -82,7 +82,7 @@ lexical_analyzer_pro/
 ### 1. Paste Code Directly
 
 - Paste C code into the text area
-- Click "🚀 Analyze Code"
+- Click " Analyze Code"
 - View results
 
 ### 2. Upload File
@@ -100,8 +100,8 @@ lexical_analyzer_pro/
 
 ### 4. Download Results
 
-- Click "📥 Download Tokens (CSV)" to save tokens
-- Click "📥 Download Symbol Table (CSV)" to save symbols
+- Click "Download Tokens (CSV)" to save tokens
+- Click "Download Symbol Table (CSV)" to save symbols
 
 ## Supported Token Types
 
