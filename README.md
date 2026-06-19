@@ -119,7 +119,7 @@ lexical_analyzer_pro/
 The analyzer detects:
 
 - Invalid / unexpected characters (e.g. `@`, `?`)
-- Unterminated string literals (e.g. `"hello;` with no closing quote)
+- Unterminated string literals (e.g. `"hy;` with no closing quote)
 - Unterminated character literals
 - Unterminated block comments (e.g. `/* comment` with no closing `*/`)
 - Malformed number formats (e.g. `0..75`, `123abc`)
