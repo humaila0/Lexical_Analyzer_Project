@@ -4,8 +4,6 @@
 
 This is a **lexical analyzer** (lexer/scanner) that demonstrates the first phase of compiler construction. It converts raw C source code into a stream of tokens, manages a symbol table of identifiers, and detects lexical errors with clear, line/column-accurate messages.
 
-**Repository:** https://github.com/humaila0/Lexical_Analyzer_Project
-
 ## Features
 
 - ✅ **Tokenization** - Converts source code into tokens
