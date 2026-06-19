@@ -1,4 +1,4 @@
-# Lexical Analyzer - CS3510 Compiler Construction
+# Lexical Analyzer
 
 ## Overview
 
