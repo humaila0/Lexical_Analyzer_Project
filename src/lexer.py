@@ -82,7 +82,7 @@ class Lexer:
                             line, column, value
                         )
                     # Skip whitespace and comments (don't create tokens)
-                    elif token_type not in ['WHITESPACE', 'COMMENT_LINE', 'COMMENT_BLOCK']:
+                    elif token_type not in ['WHITESPACE', 'NEWLINE', 'COMMENT_LINE', 'COMMENT_BLOCK']:
                         # Determine final token type
                         if token_type == 'IDENTIFIER':
                             if self.patterns.is_keyword(value):
